@@ -1,0 +1,11 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="68.364002">
+<testsuite name="login\login.spec.ts" timestamp="2026-09-10T02:52:05.955Z" hostname="chromium" tests="1" failures="0" skipped="0" time="35.903" errors="0">
+<testcase name="signs in with valid credentials @login" classname="login\login.spec.ts" time="35.903">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\login-login-signs-in-with-valid-credentials-login-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

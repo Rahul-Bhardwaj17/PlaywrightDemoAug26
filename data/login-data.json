@@ -1,0 +1,12 @@
+{
+  "credentials": {
+    "valid": {
+      "username": "rahulshettyacademy",
+      "password": "Learning@830$3mK2"
+    },
+    "invalid": {
+      "username": "invalid-user",
+      "password": "invalid-password"
+    }
+  }
+}
