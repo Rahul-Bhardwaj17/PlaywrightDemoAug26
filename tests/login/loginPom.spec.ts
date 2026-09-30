@@ -1,5 +1,5 @@
 import { test, expect } from "@playwright/test";
-import { LoginPage } from "../pages/loginPage";
+import { LoginPage } from "../pages/LoginPage";
 import loginData from "../../data/login-data.json";
 
 test("signs in with valid credentials @pomlogin", async ({ page }) => {
